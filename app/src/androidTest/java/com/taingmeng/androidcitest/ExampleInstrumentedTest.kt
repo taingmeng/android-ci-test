@@ -1,4 +1,4 @@
-package com.taingmeng.circlecitest
+package com.taingmeng.androidcitest
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
