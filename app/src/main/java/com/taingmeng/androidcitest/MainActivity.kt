@@ -1,4 +1,4 @@
-package com.taingmeng.circlecitest
+package com.taingmeng.androidcitest
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

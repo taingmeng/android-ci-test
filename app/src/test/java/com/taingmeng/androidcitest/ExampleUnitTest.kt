@@ -1,4 +1,4 @@
-package com.taingmeng.circlecitest
+package com.taingmeng.androidcitest
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
